@@ -1,3 +1,9 @@
-div{
+.a{
     background-color: aqua;
+}
+.r
+{
+    font-style: italic;
+    background-color: chartreuse;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
